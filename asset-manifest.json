@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Goals-Project/static/css/main.12ece4ce.css",
+    "main.js": "/Goals-Project/static/js/main.7d0035d2.js",
+    "index.html": "/Goals-Project/index.html",
+    "main.12ece4ce.css.map": "/Goals-Project/static/css/main.12ece4ce.css.map",
+    "main.7d0035d2.js.map": "/Goals-Project/static/js/main.7d0035d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12ece4ce.css",
+    "static/js/main.7d0035d2.js"
+  ]
+}
